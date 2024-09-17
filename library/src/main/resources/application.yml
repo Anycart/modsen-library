@@ -1,0 +1,14 @@
+server:
+  port: 8084
+
+spring:
+  application:
+    name: library-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/library?createDatabaseIfNotExist=true
+    username: root
+    password: 12361236s
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
