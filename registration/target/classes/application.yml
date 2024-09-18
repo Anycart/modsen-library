@@ -1,9 +1,0 @@
-server:
-  port: 8082
-
-spring:
-  application:
-    name: authentication-service
-jwt:
-  secret: zF8aQH3xS7q5G8gI9vT6cG3vB1kZ0lF4t6A7dC9eK0Q=
-  expiration: 3600
