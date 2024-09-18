@@ -40,6 +40,8 @@ Once the microservices are up and running, you can view the OpenAPI documentatio
 
 Explore these links to interact with the available API endpoints and test the service functionalities.
 
+Some endpoints require a JWT token for access. In Swagger documentation, these endpoints are marked with a lock icon. To use these endpoints, you need to first authenticate and obtain a JWT token.
+
 ## Functionality
 
 ### Book Service
