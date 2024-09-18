@@ -4,7 +4,7 @@
 Welcome to the Modsen Library project! This guide will help you get started with running the project and accessing its services.
 
 ## Requirements
-- **JDK 21**: Ensure you have JDK 21 installed on your machine.
+- **JDK 17**: Ensure you have JDK 17 installed on your machine.
 
 ## Getting Started
 
